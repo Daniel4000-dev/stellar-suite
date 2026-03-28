@@ -7,8 +7,6 @@ out-test/
 *.vsix
 .DS_Store
 *.log
-.env
-.env.local
 stellar-suite-*.vsix
 stellar-kit-*.vsix
 node_modules/
@@ -34,3 +32,4 @@ extension/templates/**/*.wasm
 issues/
 
 docs
+config.bat
